@@ -2,66 +2,8 @@
 
 ## 简介
 2024年，重新整理了国内外的短信接码平台，包括免费和付费的选项。长期使用建议选择付费平台，临时使用可以考虑免费的。本文信息为手工整理，可能存在时效性问题，请读者购买时谨慎。
-
-## 国外收费接码平台
-### [Sms-activate](https://sms-activate.org/?ref=10195922)
+### [Sms-man](https://sms-man.com/cn?ref=0wDIqEulSsvK)
 提供185个国家的虚拟电话号码，支持中文页面，1美元起充，未收到验证短信将自动退款，支持微信、支付宝、银联银行卡充值。
-
-### [Tiger SMS](https://tiger-sms.com/?ref=276094)
-老牌接码平台，提供免费版和收费版，支持多种支付方式，按收到的验证码扣费。
-
-### [Autofications](https://autofications.com/?ref=o66ette)
-提供全自动短信验证服务，支持多种国家的虚拟电话号码，5美元起充，支持支付宝充值。
-
-### [Vak SMS](https://vak-sms.com/0637f574-842b-46be-abd6-750801220477)
-俄语界面，提供多国号码，无微信、支付宝充值，支持单号码单项目8小时使用。
-
-### [OnlineSim](https://onlinesim.io/?aref=6143798)
-支持中文页面，国家和项目众多，接码收费显示为RMB，支持支付宝、银联银行卡充值。
-
-### [Rich PVA](https://richpva.com/user/register?cps=Xrnl4n3u)
-支持中文页面，有微信、支付宝充值，5元起步，接码时间在1到3分钟之间。
-
-### [Get SMS](https://get-sms.com/?ref=132408)
-无中文支持，可二次接码，无微信、支付宝充值，支持多个国家。
-
-### [SmsPool](https://smspool.net/?refferal=G3bdnP6kOv)
-无中文，支持微信、支付宝充值，美元充值15美元起步，多个国家号码。
-
-### [SMS Activation Service](https://sms-activation-service.com/ru/?ref=1708356786)
-支持中文，提供多个国家的号码和项目，无微信、支付宝充值。
-
-### [Mobile SMS](https://mobilesms.io)
-无中文，支持微信充值，5美元起充，提供多个国家的私人号码。
-
-### [PVA Verify](https://service.pvaverify.com)
-无中文，无微信、支付宝充值，提供美国实体卡号码，接码费用较高。
-
-### [5SIM](https://5sim.net)
-国外收费接码平台，提供多国号码，长期未使用帐户将被删除，余额不恢复。
-
-### [Text Verified](https://www.textverified.com)
-国外付费接码平台，无中文，支持多种类型的验证，无微信、支付宝充值。
-
-### [SmsPVA](https://smspva.com)
-提供虚拟电话号码服务，支持支付宝和信用卡充值，起步价$0.1。
-
-### [Get SMS Online](https://getsms.online/en)
-俄罗斯接码平台，无中文，支持VISA信用卡、比特币和Paypal充值。
-
-### [SimSMS](https://simsms.org)
-无中文，俄罗斯平台，多国号码接码，无国内常用支付方式。
-
-### [SMS Acktiwator](https://sms-acktiwator.ru)
-无中文，俄罗斯接码平台，无微信、支付宝充值，50卢布起充。
-
-### [PVA Pins](https://pvapins.com)
-无中文，多国号码，无微信、支付宝充值，5美元起充。
-
-### [SMS-Reg](https://sms-reg.com)
-无中文，俄罗斯接码平台，提供多国号码，获取号码费用1卢布，无微信、支付宝充值。
-
-## 国外免费接码平台
 ### [Receive SMS Free](https://receive-sms-free.cc/)
 拥有超过200个免费的临时电话号码，包括中国、美国、印度、俄罗斯、英国、加拿大等国家。
 
